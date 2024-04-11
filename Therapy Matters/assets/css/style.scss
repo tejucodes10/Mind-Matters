@@ -1,0 +1,89 @@
+@import "../libraries/bulma/bulma.sass";
+
+// Define colors
+$pink: #FF69B4;
+$white: #FFFFFF;
+$black: #000000;
+
+body {
+    background-color: $white;
+    height: 100vh;
+    transition: all 0.2s ease;
+}
+
+body .text {
+    color: $black;
+}
+
+body.dark {
+    background-color: $black;
+    color: $white;
+}
+
+body.dark .text {
+    color: $white;
+}
+
+#sliders {
+    position: fixed;
+    width: fit-content;
+}
+
+#action-container {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.section {
+    padding-top: 25vh;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    color: $white;
+    padding: .7rem;
+    background: $black;
+    border-radius: 6px;
+}
+
+body.dark button {
+    background: $white;
+    color: $black;
+}
+
+#dot {
+    border-radius: 50px;
+    background-color: $black;
+    height: 100px;
+    width: 100px;
+}
+
+body.dark #dot {
+    background-color: $white;
+}
+
+#tick-output, #volume-output, #duration-output {
+    background-color: $black;
+    color: $white;
+    padding: .7rem;
+    height: min-content;
+    width: 69px;
+    text-align: center;
+}
+
+body.dark #tick-output, body.dark #volume-output, body.dark #duration-output {
+    background-color: $white;
+    color: $black;
+}
+
+.label {
+    //justify-content: center;
+    width: 105px;
+}
+
