@@ -1,13 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "fleet-bus-374306",
-  "private_key_id": "8d45ec253fd9aefa5484d94a91b61edbc1d67d9f",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuUgKa0yLr6xet\n+RHicGpJXR4I66KfZ/6eLhA4nmRT7kcIcUiE+qeUalVN/KGijM7Muhvi7w9igjVs\nSO0LnrDHYnoVYp2Y35H13tUqIdgTI7jGkPuZ1M9wARHG3njAAN0XZLOzY7hMgE0j\n2HU2ZVolwRm8LPC08251x/+SEb1FRqdDK4kZrwLC7SHUg7hT2VVmnY68kghbFNYn\nPGRW83dfwvNyzB5H9GQTHAD8oPm9jvadD0u79qVg1yxth/B4nprmArQs1klJpzvp\nXHM1G5N0kD3eNEYt6r2H7DLmQEvuAQQDC1LCW9PkgbeTgm7cUuxZEmiAMy1eoZyy\nINoz0SjhAgMBAAECggEARjZ4IB5c2YN2pTdGMduvo98iwtsORIChuNq64+NAa+H0\nsHzYhd9j8k6mD2RrQkrO3P01UEGUA8yIchYpjF2dvKF4pPZ0neenJc5cM70wB/2C\nZlBtVve1mdqEa4KeRk/SvaJtExteV0nySDbed0t5dO2DTR0Y0vmeC0jEMvR8NNNl\npYYphRakdi4tOa6jI6mrBQBf1UrqLQX5KlcSTY4lC8jcuz0ZSSsH+XrOVU3vJM8c\nT6zImaP9Oc7hqRW3w8teeiNGeP3pr1GgL0VByrRkAkcc5NZCf8s2FGq0dn4eKqWU\nWLo52bdNwEIiKXDFj3sQ9BfFt7Xv7rPoH/mInRYfNQKBgQDyzsdkq/v/XmQ8J4SO\nSVIWBs03jAnMrOxcMQ0E8Zu7Ts9etH0t6mpJBhmf5evv7zhnhmpsWm7IH3RKpvS/\nbNJwzbG4kjtg2rA/LYAWmBddSeOLmi6zzDzpJj6FJFZ2dcw1VdNqAtSokY7oiBG9\nuTktxveHxypJvJiPa0wDa+Iv/wKBgQC3yqNTJsGc+5ht9tHdw0w/YKJkiZAaeYZ1\nZojwE0hx1AJ7Ycfb7dCKl9RiE6tJksUlFzImw63fUDkoAmsIiELitlbQrXvHv6tM\ncXtj4Kiirn/SW2v19fmckCTcCOXNgn0bRN8MwfXyHo0IexXFwzC0ipd2ChDB/mu2\nRsROyeKnHwKBgCUJr9bGeVk5/9ZBPPIrcw8TGIjJntEO67sgbFj9tgC7g9xxccro\nQDBFcvE2NGhUOGlqUp+Wp+F1Ets0Xo84vV0hs2NxQweCNHJesXRA3QeI9uHbshYR\nKJV0FQNgSKQnUfAs2GQKbIAOPBtybipfr74w5J9cnTHESA1Qk7bN5SHnAoGAV48M\nXDLcjmM2bTznIpVGH/Nzqh33LwWyTv/4QReOrdvpCsq8okQb08sdfVQNiFGJ5m+0\njs8uaHMZp7vvLfNsmgFwPp5HmBPyEcsGk8CV1lr3vkmbl2QF9NafGMyMXmnKHFGl\nSbil6SEw41dwOfURoRFdsvh8n08MFZyFLVv0xNUCgYEAwSICfHipuJaWPnSKHCgM\niHvGS1Ow1jZ+vY9tVpIXGZ+U95mTI/lx46dccuHNtIk4iGP3B+eibgof/UUVVudO\nd73WUywLVZCp99KN4sazNDBc1JZpcH7yIeyIwuj+et5N0w+Kx6+9AVImS3J7ZkIv\ndP+2i1sMo6LX8f7r95GVErA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "test-184@fleet-bus-374306.iam.gserviceaccount.com",
-  "client_id": "111169105597868337211",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": ""
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-184%40fleet-bus-374306.iam.gserviceaccount.com",
+  "client_x509_cert_url": "",
   "universe_domain": "googleapis.com"
 }
